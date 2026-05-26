@@ -1,16 +1,92 @@
-# React + Vite
+# 📚 Book Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based Book Management System with full CRUD operations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Add Books
+- Edit Books
+- Delete Books
+- Search Books
+- Filter Books by Genre
+- Responsive UI
+- API Integration using JSON Server
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Axios
+- JSON Server
+- CSS
+
+---
+
+## ⚙️ Installation & Setup
+
+### Clone Repository
+
+```bash
+git clone YOUR_GITHUB_LINK
+```
+
+### Go To Project Folder
+
+```bash
+cd book-management
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start JSON Server
+
+```bash
+npm run server
+```
+
+### Start React App
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Local URLs
+
+Frontend:
+
+```bash
+http://localhost:5173
+```
+
+Backend:
+
+```bash
+http://localhost:3000/books
+```
+
+---
+
+## ✨ UI Features
+
+- Modern Dark Theme
+- Responsive Layout
+- Smooth Hover Effects
+- Professional Design
+
+---
+
+## 👩‍💻 Developed By
+
+### Vaishnavi Pagar ✨
+
+Frontend Developer | React Enthusiast
