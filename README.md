@@ -31,7 +31,7 @@ A modern React-based Book Management System with full CRUD operations.
 ### Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/vaishnavipagar/book-management-system
 ```
 
 ### Go To Project Folder
